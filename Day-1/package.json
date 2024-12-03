@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "type": "module",
+  "name": "day-1",
+  "version": "1.0.0",
+  "main": "Main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
